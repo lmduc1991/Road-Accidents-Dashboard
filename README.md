@@ -4,7 +4,9 @@
 
 ### **Project Overview**
 
-In this project, we built a [Dashboard](https://public.tableau.com/views/RoadAccidents_17061776617260/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to illustrate Road Accidents from 2019 to 2022 by capitalizing functions and tools of **Tableau**. Data used was extracting from file **accident data** - excel file which was retrieved from [Kaggle website]([https://www.kaggle.com/datasets/nezukokamaado/road-accident-casualties-dataset])
+In this project, we built a [Dashboard](https://public.tableau.com/views/RoadAccidents_17061776617260/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to illustrate Road Accidents from 2019 to 2022 by capitalizing functions and tools of **Tableau**. 
+
+Data used was extracting from file **accident data** - excel file which was retrieved from [Kaggle website](https://www.kaggle.com/datasets/nezukokamaado/road-accident-casualties-dataset)
 
 ### **Data Understanding**
 
